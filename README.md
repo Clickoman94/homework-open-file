@@ -128,5 +128,5 @@ get_shop_list_by_dishes(['Запеченный картофель', 'Омлет'
 ---
 Домашнее задание сдается ссылкой на репозиторий [BitBucket](https://bitbucket.org/) или [GitHub](https://github.com/)
 
-hhk
+
 
